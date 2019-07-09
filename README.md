@@ -2,7 +2,7 @@
  My algorithms implementation
 
 
--- K-Nearest Neibour --
+-- K-Nearest Neighbour --
 Classification algorithm
 
 File: my_knn.py
