@@ -25,7 +25,7 @@ Input:
 X -> Numpy ND array with numeric features
 
 Output:
-for each sample in input X, corresponding class groupping
+for each sample in input X, corresponding class grouping
 
 <br>
 <br>
