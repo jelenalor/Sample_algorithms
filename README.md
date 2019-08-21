@@ -1,5 +1,6 @@
 # Sample_algorithms
- *My algorithms implementation*
+
+**Author - Jelena Lor**
 
 
 ### Regression 
